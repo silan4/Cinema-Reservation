@@ -10,7 +10,7 @@
 
 - - The project consists of the cinema logo, the seats section, the movie list and the section showing the equivalent of the seats in different color.
 - - You can choose the seat you want
-- -When you select the seat, it turns yellow.
+- - When you select the seat, it turns yellow.
 - - You can select movies from the movie list.
 - - The price is immediately updated according to the movie you choose and the number of seats you get.
 - - You can change the seats you choose.
